@@ -1,0 +1,25 @@
+pictureperfectplaygroundscom Need password to access site
+primaryhealth Don't update google maps!
+propowercleaninccom Don't update meta tags quick
+tokcommercialcom Do not update views without checking to see if duplicate houses are in view
+transformyouazcom Fatal error when trying to run database updates (Also moving to hubspot)
+yellowcabcom site broken (old comment but hasn't been updated in a long time)
+abecarolinacom After updating go to configuration/rules and disable new product notification
+meridiandevelpmentcorpcom Do not update file field source module!
+crookham2015 Don't update bootstrap theme/panels bootstrap layouts. Check product pages after updating before deploying
+atlashelpscom Completed, needs menu fixes at smaller viewports (Old Comment)
+oregonofficesolutionscom Product Catalog search fix available (Anthony Comment)
+fruthgroupcom Only hosting the product page
+waycopysolutionscom Lots of errors under the live tab
+benchmarkyourbusiness-com Don't update MD Slider Module / Has huge backups (60 gb+), backup manually
+kbcconnect-com Don't update JW Player Module
+shpbeds-org Update only with composer
+lochsacom Had issue being stuck in maintenance mode even when configuration is set out of maintenance mode - Also ran into 'unexpected errors's, not sure what do there
+newcastlegroupcomau2 Menu has some issues when hovering over menu items
+baycopycom-2017 Upon last update, after changes were committed, there was still code in the updates environment, but update had been propagated. Shouldn't be an issue.
+gobins-2017 Backups take a really long time, consider doing them manually (12.5 gb)
+boiseautobody-com Had issues updating at least 1 of the following 3 modules: Metatag, Webform, and/or Anti Spam by CleanTalk
+documentsystemscom Run backups manually (6.2 gb)
+duplicatorsalescom Had password issue, wasn't able to log in
+to-engineers-com Had issues updating at least 1 of the following 3 modules: Context, Webform, and/or Metatag
+bestofficecomau Run backups manually (7+ gb)

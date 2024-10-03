@@ -1,0 +1,19 @@
+# Ignore all files stored in the logs directory
+logs/
+
+# Ignore tester file in functions
+functions/terminusTester.php
+
+# Ignore listArchive, siteList, and sitesToFinish
+siteInfo/listArchive
+siteInfo/siteList.txt
+siteInfo/sitesToFinish.txt
+
+# Testbed File
+testBed/
+
+# Hide utility files in functions/
+functions/functionFiles/
+
+./DS_Store
+
